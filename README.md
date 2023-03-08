@@ -1,1 +1,1 @@
-# pator-go
+# go-pator
